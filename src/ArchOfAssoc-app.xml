@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/1.5.3">
+  <id>AoA-1</id>
+  <filename>AoA</filename>
+  <name>the Architecture of Association</name>
+  <version>v080.1:localhost</version>
+  <copyright>Howe/Seaman 2009</copyright>
+  <initialWindow>
+    <content>[This value will be overwritten by Flex Builder in the output app.xml]</content>
+    <systemChrome>none</systemChrome>
+    <visible>true</visible>
+    <resizable>false</resizable>
+    <width>1366</width>
+    <height>748</height>
+    <x>0</x><y>20</y>         
+  </initialWindow>
+</application>

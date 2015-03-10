@@ -1,2 +1,2 @@
 # AoA
-Architecture of Association
+Architecture of Association project

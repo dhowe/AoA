@@ -143,7 +143,7 @@ package aoa
         }          
         ClipAoA.colClips = clips;
         AoA.removeAll(CLIP, DEFAULT_FADE_TIME);      
-        //AoA.log("AoAModeManager.setColorMode("+col+")");           
+        AoA.log("AoAModeManager.setColorMode("+col+")");           
       }  
       colorMode = col;  
     }   

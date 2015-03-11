@@ -1,0 +1,21 @@
+##############################################
+color1=red
+relatedClips1=apartmant22,apartmant38,apartmant56,apartmant38,apartmant37,transit_transfer8,transit_transfer9,buddhist_temple_91,buddhist_temple_100-1,buddhist_temple_100-2,buddhist_temple_101,buddhist_temple_102,buddhist_temple_103,buddhist_temple_16,buddhist_temple_17,buddhist_temple_89,buddhist_temple_86,buddhist_temple_55,buddhist_temple_65,buddhist_temple_75,buddhist_temple_87
+##############################################
+color2=bw
+relatedClips2=street14,apartmant16,apartmant2,  apartmant35,apartmant39,apartmant41,apartmant46,apartmant50,apartmant55,apartmant68,apartmant76,apartmant84,apartmant108,construction_3,construction_4,
+##############################################
+color3=green
+relatedClips3=elevator1,apartmant14,apartmant23,apartmant32,apartmant52,apartmant58,apartmant59,apartmant60,apartmant61,apartmant62,apartmant63, apartmant67, apartmant19,apartmant80,apartmant81,apartmant85,apartmant86,apartmant87,apartmant88,apartmant89,apartmant90,apartmant91,apartmant93,apartmant65, apartmant96,apartmant101,apartmant102,apartmant104,apartmant106,buddhist_temple_165,buddhist_temple_167,
+##############################################
+color4=brown
+relatedClips4=street1,street3,water2,water5,water7,water8,apartmant95,apartmant102,buddhist_temple_93,buddhist_temple_109,buddhist_temple_111,buddhist_temple_113,buddhist_temple_119,buddhist_temple_120,buddhist_temple_121,buddhist_temple_122,buddhist_temple_123,buddhist_temple_125,buddhist_temple_127,buddhist_temple_128,buddhist_temple_137,buddhist_temple_78,buddhist_temple_80,buddhist_temple_81,buddhist_temple_82,
+##############################################
+color5=elev
+relatedClips5=elevator1,elevator14,elevator18,elevator5,elevator8,elevator11,elevator15,elevator3,elevator6,elevator12,elevator16,elevator4,elevator7
+##############################################
+color6=night
+relatedClips6=street1,street4,street5,street6,transit_transfer_1,transit_transfer_3, transit_transfer_4, transit_transfer_5, transit_transfer_6, transit_transfer_6, buddhist_temple_106, buddhist_temple_106,buddhist_temple_108,buddhist_temple_109,buddhist_temple_122, buddhist_temple_113,buddhist_temple_113,buddhist_temple_123,buddhist_temple_125,buddhist_temple_127,buddhist_temple_128,buddhist_temple_131,buddhist_temple_136, 
+##############################################
+
+

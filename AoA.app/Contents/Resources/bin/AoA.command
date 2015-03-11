@@ -14,11 +14,8 @@ APP_DIR=$AOA_HOME/Contents/MacOS/
 #AIR_RUNTIME=/Applications/Adobe\ Flex\ Builder\ 3/sdks/3.2.0/runtimes/air/mac/
 
 #cd "$SERVER_DIR"
-cd /Users/dhowe/git/AoAServer/src
-./run-server.sh $1 $2
+#/run-server.sh $1 $2
 
-cd ~/Desktop
-open $AOA_HOME
-"$VLC_PLAYER" -I dummy --loop AoA # -d for daemon
-#"$VLC_PLAYER" -I dummy --loop $AOA_MP3  # -d for daemon
+open $AOA_HOME &
+"$VLC_PLAYER" -I dummy --loop $AOA_MP3  # -d for daemon
 #"$ADL_PATH/adl" -runtime "$AIR_RUNTIME" AoAMain-app.xml &

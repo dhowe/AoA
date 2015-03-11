@@ -80,23 +80,13 @@ package aoa
       }
       else
         die("unexpected type: "+evt);  
-     /*  if (this is TextAoA)
-          log("TextAoA#"+idx+" onFadeComplete: "+identStr());
-      else
-          log("ClipAoA#"+idx+" onFadeComplete: "+identStr());  */
+
        destroy();      
       
     }
     
     protected function destroy() : void
-    {    
-        //if (scrolling) clearInterval(scrollId);
-        
-/*         if (this is TextAoA)
-          log("TextAoA#"+idx+" destroy: "+identStr());
-        else
-          log("ClipAoA#"+idx+" destroy: "+identStr());  */
-          
+    {             
         if (app.contains(this)) { 
           app.removeChild(this);
           getFreePool().push(this);
@@ -104,48 +94,7 @@ package aoa
         }                
         if (!SILENT) warn("Unable to destroy AoAObj#"+this);
     }    
-    
-/*     protected function addToInstances() : Boolean
-    {    	
-        var inst:Array = getInstances();
-        if (inst.indexOf(this)>=0) {
-          err("!!!! attempt to add duplicate instance: "+this);
-          return false;          
-        }
-        inst.push(this);
-        return true;        
-    }   */ 
-     
-/*     protected function removeFromInstances() : Boolean
-    {
-        var match:Boolean = false;
-        var instances:Array = getInstances();
-        for(var i:int=0; i<instances.length; i++) {
-          var clip:AoAObj = instances[i];
-          if (clip == this)  {
-            instances.splice(i,1);                
-            match = true; 
-            break;
-          }
-        }    
-        if (!match) 
-          err("Unable to remove instance: "+this);
-          
-        return match;        
-    } */
-    
-/*     protected function doScroll() : Move 
-    {       
-      if (ENABLE_SCROLLING) { 
-	      mover.end();     
-	      mover.xTo = app.width-200; 
-	      var normD:Number = (app.width-x)/app.width;       
-	      mover.duration = normD * SCROLL_SPEED;            
-	      mover.play([this]);    
-      }  
-      return mover;
-    } */
-    
+
     public function doFadeIn(dur:int)  : Fade  { return doFade(true, dur);  }
     
     public function doFadeOut(dur:int) : Fade 
@@ -178,27 +127,11 @@ package aoa
     
     protected function doMove(nx:int, ny:int, dur:int) : Move 
     {     
-/*       AoA.die("DO MOVE DISABLED...");
-      if (mover) {
-        //AoA.log("Manual move END("+x+","+y+")"+this);
-        mover.end();
-      }
-      else {
-        //AoA.log("Manual move START("+x+","+y+") :"+this);
-        mover = new Move();
-        mover.easingFunction = Linear.easeNone;
-      }                             
-      mover.xFrom = x;
-      mover.yFrom = y;
-      mover.xTo = nx;
-      mover.yTo = ny;
-      mover.duration = dur;
-      mover.play([this]);           
-      return mover; */
       return null;
     }  
      
     public static function getInstancesFor(app:Application, type:int) : Array {
+		
       var tmp:Array = new Array();        
       var arr:Array = app.getChildren();
       for (var i:int = 0; i < arr.length; i++) {
@@ -211,14 +144,17 @@ package aoa
     }
      
     public function getInstances() : Array {
+		
       return getInstancesFor(app, type);     
     }
 
     protected function getFreePool() : Array  {
+		
       throw new Error("Abstract function: AoAObj.getFreePool()");
     }
     
     protected function identStr() : String  {
+		
       throw new Error("Abstract function: AoAObj.identStr()");
     }                    
               

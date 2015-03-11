@@ -1,10 +1,10 @@
     // APPLICATION CONSTANTS =========================================
         
-    public static const RELEASE_BUILD: Boolean = false;
+    public static const RELEASE_BUILD: Boolean = true;
     public static const NETWORK_ENABLED:Boolean = true;
     public static const HIDE_MOUSE: Boolean = RELEASE_BUILD;
             
-    public static const SHOW_INFO:Boolean = true;
+    public static const SHOW_INFO:Boolean = !RELEASE_BUILD;
     public static const SERVER_EFFECT_DUR:int = 45000; 
     public static const BLANK_EFFECT_DUR:int  = 10000;
     public static const MAX_TEXTS_PER:int=7, MAX_CLIPS_PER:int=10;

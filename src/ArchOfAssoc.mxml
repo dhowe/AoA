@@ -139,7 +139,6 @@
         
         //if (!RELEASE_BUILD)
         NativeApplication.nativeApplication.addEventListener(KeyboardEvent.KEY_UP, onKeyUp);
-        
         NativeApplication.nativeApplication.addEventListener(Event.EXITING, AoA.onExiting);
         
         if (ENABLE_START_ON_LOGIN && RELEASE_BUILD)   {                    
@@ -151,11 +150,13 @@
             }
         }                                              
         
-        if (ROTATE_STAGE) doRotateTransform();         
+		if (ROTATE_STAGE) doRotateTransform();         
         if (!RELEASE_BUILD && SHOW_MIDLINE) resetMidline();        
         
-        if (SHOW_TEXT)  TextAoA.create(this, 3000, INITIAL_TEXT_COUNT);     
-        if (SHOW_VIDEO) ClipAoA.create(this, 3000, INITIAL_CLIP_COUNT);  
+		// moved into tick-timer to start with some blank space
+		
+        //if (SHOW_TEXT)  TextAoA.create(this, 3000, INITIAL_TEXT_COUNT);     
+        //if (SHOW_VIDEO) ClipAoA.create(this, 3000, INITIAL_CLIP_COUNT); 
         
         setTimeout(startTickTimer, 5000);       
       } 
@@ -163,6 +164,9 @@
       
       private function startTickTimer() : void {
               
+		if (SHOW_TEXT)  TextAoA.create(this, 3000, INITIAL_TEXT_COUNT);     
+		if (SHOW_VIDEO) ClipAoA.create(this, 3000, INITIAL_CLIP_COUNT);  
+		  
         AoA.log("Starting tick timer...");  
         var myTimer:Timer = new Timer(TIMER_INTERVAL, 0); 
         myTimer.addEventListener("timer", onTick);
@@ -369,6 +373,10 @@
              AoA.showClipNames = !AoA.showClipNames;
              AoA.log("Mode.ClipNames="+AoA.showClipNames); 
              break; 
+		   case "b":
+			   mm.setMode(AoAModeManager.BLANK);
+			   AoA.log("Mode.BLANK"); 
+			   break; 
            case "i":
              AoA.showInfo = !AoA.showInfo;
              AoA.log("Mode.ShowInfo="+AoA.showInfo); 

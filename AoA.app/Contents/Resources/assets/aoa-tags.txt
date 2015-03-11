@@ -1,0 +1,755 @@
+##############################################
+line1=person to person | person to machine | machine to machine
+tags1=person,machine,machinic
+relatedLines1=2,3,10,25,28,59,62,76,79,90,95,113,114,126,130,131,147,149,151,152,171
+relatedClips1=apartmant40,apartmant41,Construction 1,Construction 2,Drive5,street1,street3,Apartmant1,Apartmant12,Apartmant13,Apartmant16,Apartmant26,Apartmant27,Apartmant35,Apartmant39,Apartmant40,Apartmant41,Apartmant49,Apartmant56,Apartmant58,Apartmant59,Apartmant61,Apartmant62,Apartmant63,Buddhist temple 155,Buddhist temple 156,Buddhist temple 167,Buddhist temple 16,Buddhist temple 17,Buddhist temple 70,
+##############################################
+line2=body to mind | mind to body | neosentient
+tags2=body,mind,neosentient,communication,language,bodies,thoughtbody 
+relatedLines2=2,3,10,25,28,59,62,76,79,90,95,113,114,126,130,131,147,149,151,152,171
+relatedClips2=street2,water3,water4,water6,water8,water9,water10,water11,Apartmant12,Apartmant16,Apartmant23,Apartmant35,Apartmant39,Apartmant40,Apartmant41,Apartmant49,Apartmant56,Apartmant58,Apartmant59,Apartmant61,Apartmant62,Apartmant63,Buddhist temple 167,Buddhist temple 16,Buddhist temple 17,Buddhist temple 25,Buddhist temple 27,Buddhist temple 70,
+############################################## 
+line4=landscape | melody | geography | rhyme
+tags4=landscape,melody 
+relatedLines4=5,8,10,18,31,44,46,90,147,21 
+relatedClips4=Drive1,Drive2,Drive3,Drive4,Drive5,elevator4,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,street1,street3,street6,street14,street16,street17,transit transfer 1,transit transfer 6,transit transfer 11,water2,water3,water4,water7,water8,water10,water11,Apartmant1,Apartmant2,Apartmant3,Apartmant4,Apartmant6,Apartmant7,Apartmant8,Apartmant12,Apartmant13,Apartmant14,Apartmant22,Apartmant23,Apartmant24,Apartmant28,Apartmant30,Apartmant32,Apartmant33,Apartmant35,Apartmant37,Apartmant38,Apartmant40,Apartmant41,Apartmant42,Apartmant43,Apartmant44,Apartmant45,Apartmant46,Apartmant48,Apartmant50,Apartmant51,Apartmant55,Apartmant59,Apartmant60,Apartmant61,Apartmant62,Apartmant63,Apartmant64,Apartmant65,Apartmant67,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Apartmant84,Apartmant108,Apartmant110,Buddhist temple 90,Buddhist temple 91,Buddhist temple 93,Buddhist temple 94,Buddhist temple 95,Buddhist temple 96,Buddhist temple 98,Buddhist temple 105,Buddhist temple 108,Buddhist temple 109,Buddhist temple 111,Buddhist temple 113,Buddhist temple 119,Buddhist temple 120,Buddhist temple 121,Buddhist temple 122,Buddhist temple 123,Buddhist temple 124,Buddhist temple 125,Buddhist temple 136,Buddhist temple 137,Buddhist temple 9,Buddhist temple 11,Buddhist temple 21,Buddhist temple 22,Buddhist temple 23,Buddhist temple 28,Buddhist temple 37,Buddhist temple 38,Buddhist temple 42,Buddhist temple 55,Buddhist temple 59,Buddhist temple 70,Buddhist temple 73,Buddhist temple 74,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,Buddhist temple 86,Buddhist temple 87,Buddhist temple 89,
+############################################## 
+line5=mathematical observer | chemical observer | observable observer 
+tags5=observer,chemical,computer,
+relatedLines5=16,20,23,27,36,46,60,62,66,74,83,84,88,107,110,113,116,121,125,129,138,139,149,153,160
+relatedClips5=Construction 3,Construction 4,Drive2,Drive3,Drive5,street2,street3,transit transfer 6,water3,water4,water8,water10,water11,Apartmant13,Apartmant14,Apartmant22,Apartmant23,Apartmant24,Apartmant27,Apartmant28,Apartmant30,Apartmant32,Apartmant33,Apartmant34,Apartmant39,Apartmant40,Apartmant41,Apartmant48,Apartmant55,Apartmant56,Apartmant58,Apartmant59,Apartmant61,Apartmant62,Apartmant63,Apartmant65,Apartmant67,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Apartmant95,Apartmant108,Apartmant110,Buddhist temple 93,Buddhist temple 94,Buddhist temple 95,Buddhist temple 96,Buddhist temple 98,Buddhist temple 109,Buddhist temple 111,Buddhist temple 111,Buddhist temple 113,Buddhist temple 125,Buddhist temple 128,Buddhist temple 137,Buddhist temple 140,Buddhist temple 141,Buddhist temple 153,Buddhist temple 167,Buddhist temple 16,Buddhist temple 17,Buddhist temple 21,Buddhist temple 22,Buddhist temple 86,
+##############################################
+line6=traffic | flow | control | systems | failure
+tags6=speak,speaks,flow,flows,communication,language,
+relatedLines6=8,13,15,21,22,27,31,36,43,50,58,75,76,80,83,91,95,99,105,121,124,149
+relatedClips6=Drive5,street6,street11,street14,street16,transit transfer 11,water2,Apartmant16,Apartmant26,Apartmant27,Apartmant40,Apartmant41,Apartmant49,Apartmant84,Buddhist temple 53,
+############################################## 
+line7=lights out | in the building
+tags7=light,lights,building
+relatedLines7=8,13,27,31,46,60,74,81,84,95,121,161
+relatedClips7=Drive1,Apartmant1,Apartmant27,Apartmant42,Apartmant43,Apartmant55,Apartmant58,Apartmant95,Apartmant110,Buddhist temple 9,Buddhist temple 11,
+############################################## 
+line8=language | of scratches | language | of dents
+tags8=communication,language,scratches,dents
+relatedLines8=8,13,27,31,46,60,74,81,84,95,121,161
+relatedClips8=street3,street4,street14,street17,transit transfer 1,Apartmant24,Apartmant27,Apartmant28,Apartmant32,Apartmant33,Apartmant37,Apartmant38,Apartmant59,Apartmant83, 
+############################################## 
+line9=scale | of the body | in relation
+tags9=body,relation,relations,bodies,thoughtbody
+relatedLines9=19,32,35,36,38,40,42,44,50,54,61,93,116,132,138,142,146,162
+relatedClips9=Drive2,Drive3,elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,street2,street4,street6,transit transfer 2,transit transfer 3,transit transfer 4,transit transfer 5,transit transfer 7,transit transfer 8,transit transfer 9,water5,water7,water10,water11,Apartmant1,Apartmant2,Apartmant6,Apartmant7,Apartmant8,Apartmant14,Apartmant22,Apartmant24,Apartmant37,Apartmant38,Apartmant46,Apartmant56,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant84,Apartmant95,Apartmant110,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 119,Buddhist temple 120,Buddhist temple 121,Buddhist temple 122,Buddhist temple 123,Buddhist temple 131,Buddhist temple 137,Buddhist temple 16,Buddhist temple 17,Buddhist temple 21,Buddhist temple 28,Buddhist temple 42,Buddhist temple 73,Buddhist temple 74,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,Buddhist temple 86,Buddhist temple 87,Buddhist temple 89,
+############################################## 
+line10=new machines | speak in | tongues
+tags10=machine,tongue,communication,language,communication
+relatedLines10=12,14,16,25,28,39,41,59,69,72,86,88,98,133,134,136
+relatedClips10=elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,street1,street3,street17,transit transfer 6,Apartmant12,Apartmant16,Apartmant27,Apartmant30,Apartmant39,Apartmant58,Buddhist temple 86,
+############################################## 
+line14=communication | machines | coming | to feel 
+tags14=machine,feel,feeling,communication,communicates
+relatedLines14=15,18,35,39,44,60,69,92,94,111,136,144,167,174,175
+relatedClips14=Drive5,transit transfer 6,water10,Apartmant23,Apartmant28,Apartmant30,Apartmant40,Apartmant41,Apartmant58,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76, 
+##############################################
+line15=each body | a distinct | reference to | itself 
+tags15=itself,language,body,part
+relatedLines15=20,22,23,25,26,28,32,35,38,42,44,47,50,54,57,58,61,62,63,85,91,94,95,96,105,112,115,122,125,129,133,139,141,142,147,151,153,159,168
+relatedClips15=street2,transit transfer 2,water10,Apartmant39,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 5,Buddhist temple 70,
+##############################################
+line16=machine | transparence | extended
+tags16=machine,color,sense,sensed,polysensing
+relatedLines16=20,25,28,37,41,48,49,55,66,74,98,108,124,126,132,148,155,159
+relatedClips16=elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,street1,street6,transit transfer 8,transit transfer 9,Apartmant13,Apartmant39,Apartmant40,Apartmant41,Apartmant56,Apartmant58,Apartmant59,Buddhist temple 109,Buddhist temple 111,Buddhist temple 111,Buddhist temple 113,
+##############################################
+line17=across an echo | space in distance | time (collapsed)
+tags17=space,distance,time,echo
+relatedLines17=18,28,37,46,48,51,60,63,75,96,104,107,119,135,136,151,154
+relatedClips17=Drive2,Drive3,water3,water4,water7,water8,water11,
+##############################################
+line18=metal over | material | communication | of function
+tags18=material,communication,energy,metal
+relatedLines18=20,34,38,83,108,126,127,160,165,168
+relatedClips18=water3,water4,water10,Apartmant39,
+##############################################
+line20=force fields | sum | over | machinic | trajectories
+tags20=field,fields,machinic,force,machine,machinic
+relatedLines20=24,26,29,37,41,43,45,48,52,55,62,72,77,83,98,102,107,111,120,121,126,135,147,148,149,153,159,165
+relatedClips20=Drive2,transit transfer 6,Apartmant40,Apartmant41,
+##############################################
+line21=color | speaking | a physics | of presence
+tags21=color,speak,speaks,spoken,physics,communication,language,
+relatedLines21=22,23,31,36,50,52,75,79,81,83,87,92,104,115,118,122,125,128,130,137,140,141,142,145,147,157,162,166,169,171,172,173,174,175
+relatedClips21=Construction 1,light1,light2,street2,street6,transit transfer 1,transit transfer 8,transit transfer 9,water6,Apartmant6,Apartmant7,Apartmant8,Apartmant14,Apartmant23,Apartmant24,Apartmant26,Apartmant28,Apartmant30,Apartmant32,Apartmant33,Apartmant37,Apartmant38,Apartmant44,Apartmant45,Apartmant56,Apartmant58,Apartmant60,Apartmant65,Apartmant67,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 165,Buddhist temple 21,Buddhist temple 23,Buddhist temple 25,Buddhist temple 27,Buddhist temple 37,Buddhist temple 37,Buddhist temple 86,
+##############################################
+line22=positions | of  residue | remain | still
+tags22=position,residue
+relatedLines22=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips22=street2,transit transfer 2,water11,Apartmant24,Apartmant59,Buddhist temple 138,
+##############################################
+line23=the world | communicates | itself coming | to know
+tags23=world,communicate,communicates,know,knowledge,knowing,understand,understanding
+relatedLines23=25,26,27,29,41,47,52,55,63,86,107,122,136,149,155
+relatedClips23=Drive1,street3,street4,street6,street11,transit transfer 1,transit transfer 2,transit transfer 3,transit transfer 4,transit transfer 5,transit transfer 7,transit transfer 8,transit transfer 9,water2,water3,water4,water5,water6,Apartmant1,Apartmant2,Apartmant3,Apartmant4,Apartmant6,Apartmant7,Apartmant8,Apartmant12,Apartmant14,Apartmant16,Apartmant23,Apartmant24,Apartmant26,Apartmant27,Apartmant28,Apartmant30,Apartmant32,Apartmant33,Apartmant34,Apartmant35,Apartmant37,Apartmant38,Apartmant39,Apartmant40,Apartmant41,Apartmant42,Apartmant43,Apartmant44,Apartmant45,Apartmant46,Apartmant48,Apartmant49,Apartmant50,Apartmant51,Apartmant55,Apartmant58,Apartmant59,Apartmant60,Apartmant61,Apartmant62,Apartmant63,Apartmant65,Apartmant67,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Apartmant83,Apartmant84,Apartmant95,Apartmant101,Apartmant102,Apartmant103,Apartmant104,Apartmant108,Apartmant110,Buddhist temple 90,Buddhist temple 91,Buddhist temple 93,Buddhist temple 94,Buddhist temple 95,Buddhist temple 96,Buddhist temple 98,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 105,Buddhist temple 106,Buddhist temple 108,Buddhist temple 109,Buddhist temple 111,Buddhist temple 111,Buddhist temple 113,Buddhist temple 119,Buddhist temple 120,Buddhist temple 121,Buddhist temple 122,Buddhist temple 123,Buddhist temple 123,Buddhist temple 124,Buddhist temple 125,Buddhist temple 127,Buddhist temple 128,Buddhist temple 131,Buddhist temple 136,Buddhist temple 137,Buddhist temple 138,Buddhist temple 141,Buddhist temple 138,Buddhist temple 148,Buddhist temple 149,Buddhist temple 149,Buddhist temple 153,Buddhist temple 154,Buddhist temple 155,Buddhist temple 156,Buddhist temple 165,Buddhist temple 167,Buddhist temple 5,Buddhist temple 9,Buddhist temple 11,Buddhist temple 16,Buddhist temple 17,Buddhist temple 20,Buddhist temple 21,Buddhist temple 21,Buddhist temple 23,Buddhist temple 25,Buddhist temple 27,Buddhist temple 28,Buddhist temple 37,Buddhist temple 37,Buddhist temple 42,Buddhist temple 53,Buddhist temple 55,Buddhist temple 59,Buddhist temple 70,Buddhist temple 73,Buddhist temple 74,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,Buddhist temple 86,Buddhist temple 87,Buddhist temple 89,
+##############################################
+line24=the impossibility | of deciphering | things | entirely
+tags24=know,knowledge,knowing,understand,understanding
+relatedLines24=26,45,46,64,67,79,84,100
+relatedClips24=water3,water4,Apartmant16,Apartmant24,Apartmant28,Apartmant39,Apartmant40,Apartmant41,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 128,
+##############################################
+line25=structural coupling | enables new | exchanges
+tags25=machine,machinic,structural,coupling,exchange,nature
+relatedLines25=26,37,41,47,52,55,61,78,87,108,114,131
+relatedClips25=street1,transit transfer 8,transit transfer 9,Apartmant39,Apartmant40,Apartmant41,Apartmant49,Apartmant58,Apartmant61,Apartmant62,Apartmant63,
+##############################################
+line26=circle of intention | cycle of reception
+tags26=communication,exchange
+relatedLines26=24,45,46,64,67,79,84,100
+relatedClips26=water10,water11,Apartmant16,Apartmant26,Apartmant39,Apartmant40,Apartmant41,Buddhist temple 128,
+##############################################
+line27=natural | signs | continuously | defined
+tags27=nature,definition,definitions,language,
+relatedLines27=29,30,39,47,49,52,63,67,73,78,85,86,106,123,150,158,166
+relatedClips27=Drive2,Drive4,Drive5,street11,water2,water3,water4,water6,water10,water11,Apartmant2,Apartmant3,Apartmant4,Apartmant6,Apartmant7,Apartmant8,Apartmant14,Apartmant16,Apartmant22,Apartmant24,Apartmant40,Apartmant41,Apartmant46,Apartmant48,Apartmant56,Apartmant65,Apartmant67,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Buddhist temple 125,Buddhist temple 70,Buddhist temple 86,
+##############################################
+line29=molecular | language | formational | substrate
+tags29=biomachines,machine, machines,machinic,forming
+relatedLines29=30,59,65,166,174
+relatedClips29=water7,Apartmant39,Apartmant55,Buddhist temple 16,Buddhist temple 17,
+##############################################
+line30=accidental sea | change | intent on | (re)combination
+tags30=chance,environment,landscape,forming
+relatedLines30=65,174
+relatedClips30=water3,water4,Apartmant39,
+##############################################
+line32=positional ambiguity | meaning enfolded | signals sent
+tags32=position,positioning,signal,sight,sense,senses, fold,enfold,unfolding,enfolded,intrafolding,set,polysensing
+relatedLines32=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips32=elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,Buddhist temple 100-1,
+##############################################
+line33=subway station | navigation | restriction
+tags33=navigation,communication,language,
+relatedLines33=47,49,52,57,63,69,76,112,115,120,125,130,158,162,167,171,172
+relatedClips33=Drive4,transit transfer 2,transit transfer 3,transit transfer 4,transit transfer 5,
+##############################################
+line34=momentum | sifting through | shared syntax
+tags34=energy,network,flow,flows,light
+relatedLines34=37,42,45,56,65,74,126,131,133,135,150,155,159
+relatedClips34=light1,light2,street4,street6,Apartmant39, 
+##############################################
+line35=finger | pressure | a motion toward | touch 
+tags35=sense,sensing,touch,touching,polysensing,rest
+relatedLines35=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips35=Construction 4,Apartmant22,Apartmant39,Buddhist temple 148,Buddhist temple 149,Buddhist temple 149,Buddhist temple 151,Buddhist temple 152,Buddhist temple 153,Buddhist temple 154,
+##############################################
+line36=instinctual reaction | culture of difference | sentience
+tags36=communication,language,space,sense,polysensing
+relatedLines36=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips36=Drive5,Apartmant30,
+##############################################
+line37=connecting | infinities | (in)determinate | conversation
+tags37=infinite,indeterminate
+relatedLines37=52,55,65,135
+relatedClips37=Drive1,Drive2,street4,transit transfer 6,transit transfer 10,water2,water3,water4,water8,water10,water11,Apartmant24,Apartmant39,Apartmant40,Apartmant41,Apartmant48,Apartmant49,Buddhist temple 100-1,Buddhist temple 109,Buddhist temple 111,Buddhist temple 111,Buddhist temple 113,Buddhist temple 167,Buddhist temple 21,Buddhist temple 70, 
+##############################################
+line38=new skin | (en)folds | across time | signatures
+tags38=body,bodies,,enfold,unfolding,enfolded,markings,communicate,communication,time,
+relatedLines38=17,46,51,107,143,151,155
+relatedClips38=Apartmant24,
+##############################################
+line39=synthetic | sense  play | industrial | augmentation
+tags39=sythetic,sense,senses,machine,communication,language, augmentation
+relatedLines39=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips39=Apartmant13,Apartmant39,Apartmant40,Apartmant41,Apartmant58,Apartmant59,
+##############################################
+line40=electrolytic | reactions | respond in | lanugage
+tags40=body,bodies,desire,communication,language,thoughtbody
+relatedLines40=2,9,38,168,175,41,43,50,75,77,83,85,90,93,95,151
+relatedClips40=street3,water6,
+##############################################
+line41=machinic | absorption | for chemical | relation
+tags41=machine,machinic,body,bodies,learn,learning,knowledge,knowing,understand,understanding,thoughtbody,absorption
+relatedLines41=2,9,40,42,43,57,75,77,80,85,90,93,95,99,132,151
+relatedClips41=Apartmant39,Apartmant40,Apartmant41,Apartmant58,
+##############################################
+line42=new memories | enable | this chemical | physique
+tags42=position,positions,relation,relationality,body,bodies,thoughtbody,memory,chemical,electrochemical,physics,thoughtbody
+relatedLines42=2,9,38,40,42,43,57,77,80,85,90,93,95,99,132,151,168
+relatedClips42=transit transfer 2,transit transfer 3,transit transfer 4,Apartmant22,Buddhist temple 17,
+##############################################
+line43=register | a site | for machinic | response
+tags43=sense,knowledge,knowing,body,bodies,thoughtbody,machine,sight
+relatedLines43=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips43=Apartmant30,
+##############################################
+line44=moist | air across | new sensory | apparatus  
+tags44=sense,sensing,sight,robotic,speak,speaks,spoken,talk,talks,repeat,repeated,repeating,tongue,tongues,machine,machinic,polysensing,subtlety,passage,passages
+relatedLines44=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips44=
+##############################################
+line45=mis-use | lack of use | new use | (words) translate | and define 
+tags45=use,uses,machines,machinic,translate,translates,translated,communication,language,define,definition
+relatedLines45=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips45=water3,water4,Apartmant12,
+##############################################
+line46=scratch | marks of imperfection | fail to | adhere
+tags46=sing,sings,song,communication,language,scratches,markings,words,imperfections
+relatedLines46=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips46=Drive2,Drive3,street4,Apartmant24,Apartmant26,Apartmant27,Apartmant28,Apartmant30,Apartmant32,Apartmant37,Apartmant38,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant83,Buddhist temple 140,
+##############################################
+line48=diffuse | patterns | of vibration | theoretically | enframed
+tags48=pattern,patterns,patterning,flow,flows,sense,polysensing,know,knowing,understand,understanding,vibrations,similar,different
+relatedLines48=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips48=Drive2,Drive3,street1,street4,transit transfer 1,transit transfer 3,transit transfer 4,transit transfer 5,water10,Apartmant1,Apartmant12,Apartmant13,Apartmant22,Apartmant23,Apartmant24,Apartmant27,Apartmant28,Apartmant30,Apartmant37,Apartmant38,Apartmant58,Buddhist temple 70,
+##############################################
+line49=ambivalent | processes | in life | long configuration
+tags49=construction,process,language,languaging,know,knowing,knowledge,communication,reconfiguration,configuration,lifelong
+relatedLines49=52,59,61,63,69,72,74,76,79,88,95,96,97,100,107,112,115,120,126,129,136,150,155
+relatedClips49=water10,Apartmant22,Apartmant95,Buddhist temple 17,
+##############################################
+line51=illusions | of stasis | marking | our most subtle | passages
+tags51=illusion,communication,time,time's,passage,staining
+relatedLines51=60,64,67,78,114,119,143
+relatedClips51=Drive1,street3,water7,water11,Apartmant24,Apartmant27,Apartmant28,Apartmant58,Buddhist temple 21,
+##############################################
+line52=flux arising | in situ | shared
+tags52=language,communication,flux
+relatedLines52=55,62,91,95,98,109,113,131,158,163
+relatedClips52=water10,Buddhist temple 16,Buddhist temple 17,
+##############################################
+line53=probability of | a trait | for cellular | communication
+tags53=communication,communication,cellular, trait
+relatedLines53=56,85,88,123,124,126,137
+relatedClips53=Apartmant65,Apartmant67,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,
+##############################################
+line55=infinite | parts forever | folding | inward
+tags55=fold,enfold,unfolding,enfolded,communication,infinite
+relatedLines55=70,73,76,87,92,95,99,113,114,122,131,135,143,163
+relatedClips55=water10,Apartmant40,Apartmant41,Buddhist temple 5,
+##############################################
+line56=chemical baths | pivoting connection | (im)probable behavior  
+tags56=chemical,electrochemical
+relatedLines56=42,56,107,151
+relatedClips56=water3,water4,water10,water11,Apartmant58,
+##############################################
+line59=mechanisms | approach referential | awareness
+tags59=machines,machinic,biomachines,neosentient,itself,themselves
+relatedLines59=67,70,74,86,88,110,136,145
+relatedClips59=Apartmant39,Apartmant58,
+##############################################
+line60=interlocking | branches | to open | an exchange
+tags60=flux,language,languaging,know,knowing,knowledge,communication,open,opening,flow,flows,words,exchange,exchanges,light,lights
+relatedLines60=6,8,10,12,13,15,21,27,47,57,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips60=Drive2,Drive3,light1,light2,street4,transit transfer 1,water6,water8,water10,water11,Apartmant24,Apartmant39,Apartmant40,Apartmant41,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76, 
+##############################################
+line61=space of | communication <-> communication | of space 
+tags61=one,one’s,space,communication,breathing
+relatedLines61=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips61=Apartmant28,Apartmant39,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,
+##############################################
+line62=gestural conveyance | machinic gesture | cartography 
+tags62=gesture,gestures,gestural,flow,flows,space,environment
+relatedLines62=6,28,34,48,50,60,62,65,77,91,93,94,99,107,108,109,121,122,123,135,143,147,152,155,162
+relatedClips62=elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,light1,light2,Apartmant39,Apartmant49,
+##############################################
+line63=new words | come | into being | as code | falls away
+tags63=word,words,language,languaging,know,knowing,knowledge,talk,talks,talking,speak,speaks,speaking,spoken,code,coded,encode,decode,falling,fallen
+relatedLines63=6,8,10,12,13,15,21,27,47,57,60,61,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips63=street1,
+##############################################
+line64=forgotten frames | faint recollections | synthetic memory
+tags64=fallen,falling,memory,synthetic,memory,forgotten
+relatedLines64=42,89,114,135,156,168
+relatedClips64=water2,Apartmant16,
+##############################################
+line65=thin spaces | spell out | chances for | regeneration
+tags65=flow,flows,space,spaces,chance,nature,operating,manner
+relatedLines65=6,28,34,48,50,60,62,77,93,107,108,109,121,122,123,135,143,147,152,155
+relatedClips65=Drive2,Drive3,Drive5,water10,Apartmant14,Apartmant23,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,
+##############################################
+line66=wireless | transmission through | sensory | receptors 
+tags66=sense,senses,sensing,transmission,transmissions,polysensing,receptor
+relatedLines66=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips66=street1,transit transfer 2,Apartmant1,Apartmant2,Apartmant3,Apartmant4,Apartmant6,Apartmant7,Apartmant8,Apartmant16,Apartmant39,
+##############################################
+line67=knowing | intelligence | is coming | to know
+tags67=know,knowledge,understand,understanding,intelligence,itself,one,one’s
+relatedLines67=23,24,41,43,48,49,57,60,63,67,69,71,73,79,86,88,107,111,129,132,133
+relatedClips67=water10,water11,Apartmant48,Apartmant58,Buddhist temple 100-1,Buddhist temple 100-2,
+##############################################
+line68=category of categories | transcendent limitation
+tags68=itself,one,one’s,#sentence if of itself
+relatedLines68=4,15,23,59,67,68,70,86,87,88,101,109,128,133,140
+relatedClips68=Apartmant58,Buddhist temple 17,
+##############################################
+line69=a machine | understanding | for words | that evoke
+tags69=machine,machinic,know,knowledge,understand,understanding,feel,feeling,words,word,communication
+relatedLines69=6,8,10,12,13,15,21,27,47,57,60,61,63,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips69=street6,Apartmant40,Apartmant41,Apartmant58,Buddhist temple 17,
+##############################################
+line71=an effortless shift | to reapply | this knowing
+tags71=functionality,shift,shifting,shifts,know,knowing,knowledge,understand,understanding,position,positions,context,contextual,recontextualization
+relatedLines71=23,24,41,43,48,49,57,60,63,67,69,73,79,86,88,107,111,129,132,133
+relatedClips71=Apartmant16,Apartmant26,Apartmant27,Apartmant37,Apartmant38,Apartmant40,Apartmant41,Apartmant58,Apartmant84,
+##############################################
+line72=machine search | machine response | waiting | on words
+tags72=machine,machinic,response,words,communication,weighing
+relatedLines72=6,8,10,12,13,15,21,27,47,57,60,61,63,69,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips72=Apartmant13,Apartmant58,Buddhist temple 167,
+##############################################
+line73=arising in | conditions of | maximal abstraction
+tags73=neosentience,abstract,abstraction,sublime
+relatedLines73=23,24,41,43,48,49,57,60,63,67,69,71,79,86,88,107,111,129,132,133
+relatedClips73=Apartmant24,Apartmant39,Apartmant48,Apartmant58,
+##############################################
+line74=space | is nature | as we come | to know it
+tags74=space,environment,landscape,nature,neosentient
+relatedLines74=2,3,21,23,36,59,133,134
+relatedClips74=Drive2,elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,light1,light2,street1,street3,street4,street16,transit transfer 1,water2,water3,water4,water5,water6,water8,water10,water11,Apartmant1,Apartmant14,Apartmant17,Apartmant18,Apartmant19,Apartmant20,Apartmant21,Apartmant22,Apartmant23,Apartmant26,Apartmant28,Apartmant30,Apartmant33,Apartmant34,Apartmant35,Apartmant39,Apartmant40,Apartmant41,Apartmant42,Apartmant43,Apartmant46,Apartmant49,Apartmant50,Apartmant51,Apartmant58,Apartmant59,Apartmant61,Apartmant62,Apartmant63,Apartmant65,Apartmant67,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Apartmant83,Apartmant84,Apartmant95,Apartmant101,Apartmant102,Apartmant103,Apartmant104,Apartmant110,Buddhist temple 90,Buddhist temple 91,Buddhist temple 93,Buddhist temple 94,Buddhist temple 95,Buddhist temple 96,Buddhist temple 98,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 105,Buddhist temple 106,Buddhist temple 108,Buddhist temple 109,Buddhist temple 111,Buddhist temple 111,Buddhist temple 113,Buddhist temple 119,Buddhist temple 120,Buddhist temple 121,Buddhist temple 123,Buddhist temple 123,Buddhist temple 124,Buddhist temple 125,Buddhist temple 127,Buddhist temple 128,Buddhist temple 131,Buddhist temple 136,Buddhist temple 137,Buddhist temple 138,Buddhist temple 140,Buddhist temple 148,Buddhist temple 149,Buddhist temple 151,Buddhist temple 152,Buddhist temple 153,Buddhist temple 154,Buddhist temple 155,Buddhist temple 156,Buddhist temple 165,Buddhist temple 167,Buddhist temple 5,Buddhist temple 9,Buddhist temple 11,Buddhist temple 16,Buddhist temple 17,Buddhist temple 20,Buddhist temple 21,Buddhist temple 22,Buddhist temple 23,Buddhist temple 25,Buddhist temple 27,Buddhist temple 28,Buddhist temple 42,Buddhist temple 53,Buddhist temple 55,Buddhist temple 59,Buddhist temple 70,Buddhist temple 73,Buddhist temple 74,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,Buddhist temple 86,Buddhist temple 87,Buddhist temple 89, 
+##############################################
+line75=spoken in darkness | post physical | relations 
+tags75=space,environment,communication,body,bodies,bodily,thoughtbody,relation,relations
+relatedLines75=2,9,15,38,40,41,42,43,50,57,77,80,83,85,90,91,93,95,99,132,133,149,151
+relatedClips75=Apartmant13,Apartmant39,Apartmant58,
+##############################################
+line77=configurational | patterns <--> haptic | abstraction
+tags77=abstract,abstracted,abstracting,configuration,configurations,reconfiguration,combination,body,bodies,thoughtbody,measure
+relatedLines77=6,28,34,48,50,60,62,93,107,108,109,121,122,123,135,143,147,152,155
+relatedClips77=Drive2,Drive3,street16,Apartmant13,Apartmant18,Apartmant19,Apartmant20,Buddhist temple 16,Buddhist temple 17, 
+##############################################
+line78=definitions | enfold | in constant | collapse
+tags78=fold,enfold,unfolding,enfolded,intrafolding,definition,definitions,alive,person,personhood
+relatedLines78=32,38,55,119,120,147,163
+relatedClips78=transit transfer 8,transit transfer 9,Apartmant58,
+##############################################
+line79=new words | to echo | the edge | of exchange 
+tags79=communication,words,language,code,coded,codes,encode,decode,exchange,thinking,thought,space,spaces,other
+relatedLines79=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips79=street1,water10,Apartmant13,Apartmant24,Apartmant28,Buddhist temple 16,Buddhist temple 17,
+##############################################
+line81=submersion | in water | teaching habits | of breath
+tags81=water,waterproof,communication,breathe,sense
+relatedLines81=61,138,139,153,170
+relatedClips81=Drive2,Drive3,street6,water2,water3,water4,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,
+##############################################
+line82=harsh sunlight | in the nature | of synthetic skin
+tags82=nature,synthetic,skin,light,lights
+relatedLines82=39,43,64,92,108
+relatedClips82=
+##############################################
+line83=rain describing | new needs | for shelter
+tags83=communication,force,forces,position,positionality,body,bodies,environment,landscape
+relatedLines83=20,34,38,83,108,126,127,160,161,165,168
+relatedClips83=Drive2,Drive3,Drive5,water8,Apartmant96,
+##############################################
+line84=umbrellas collapse | and fall away | inverted 
+tags84=fall,falling,fallen,inversion,inverted,collapse
+relatedLines84=20,38,160,165,168
+relatedClips84=Apartmant96,
+##############################################
+line87=a body | falls alone | in relation | to another 
+tags87=body,fall,communication
+relatedLines87=4,15,23,59,67,68,70,86,87,88,101,109,128,133,140
+relatedClips87=street3,transit transfer 6,water6,
+##############################################
+line88=coming to know | the sounds | it makes | feedback
+tags88=biomachine,communication,know,knowledge,understand,understanding,understandings
+relatedLines88=23,24,41,43,48,49,57,60,63,67,69,71,73,79,86,107,111,129,132,133
+relatedClips88=Apartmant39,Apartmant58,Buddhist temple 16,Buddhist temple 17,
+##############################################
+line89=an open catalog | of disparate locations | for memory
+tags89=open,opening,location,position,positions,memory,navigate,navigation,location,environment,landscape
+relatedLines89=42,64,114,135,156,168
+relatedClips89=street3,transit transfer 1,transit transfer 2,transit transfer 3,transit transfer 4,transit transfer 5,Apartmant30,Buddhist temple 119,Buddhist temple 120,Buddhist temple 121,Buddhist temple 122,Buddhist temple 123,
+##############################################
+line90=patterns | of sounds | patterns | of thought | (in)action
+tags90=senses,sensed,pattern,patterns,thoughtbodies,thoughtbody,body,bodies,polysensing,position,positions,positionality,repositioning
+relatedLines90=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips90=street1,street2,transit transfer 6,transit transfer 10,water10,Apartmant16,Apartmant26, 
+##############################################
+line91=precise log | of the gesture | recorded 
+tags91=pattern,gesture,gestures,gestural,robotic,move,moves,movement,relations,relational,response,repositioning,position,positions,positionality
+relatedLines91=48,77,90,121,135,147,149,152,153,155,156
+relatedClips91=light1,light2,street4,transit transfer 1,transit transfer 6,transit transfer 10,
+##############################################
+line92=a smile for | the synthetic nature | of exchange
+tags92=synthetic,response,nature,exchange,smile
+relatedLines92=39,43,64,82,108
+relatedClips92=street2,Apartmant12,
+##############################################
+line93=timbre of voice | quality flavors | delicate wisdom
+tags93=voice,talk,communication,body,bodies,thoughtbody,sense,sensing,sight,eyes,vision
+relatedLines93=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips93=street1,street2,Apartmant40,Apartmant41,Buddhist temple 16,Buddhist temple 17,
+##############################################
+line94=gestural motion | gesture of longing | transdermal evasions
+tags94=gesture,gestural,talk,communication,voice,non-verbal
+relatedLines94=62,91,99,162
+relatedClips94=Apartmant39,
+##############################################
+line95=exchange of glances | adapted position | coded exchange
+tags95=body,bodies,bodily,exchange,change,position,code,coded,exchanges,thoughtbody
+relatedLines95=2,9,15,38,40,41,42,43,50,57,75,77,80,83,85,90,91,93,99,132,133,149,151
+relatedClips95=street2,Apartmant40,Apartmant41,Buddhist temple 16,Buddhist temple 17,
+##############################################
+line96=each expression | signalling | over coordinate | systems
+tags96=change,code,signal,signals,position,positions,light,lights
+relatedLines96=7,60,82,106,154,159,161,171
+relatedClips96=street1,street4,street6,water6,Apartmant40,Apartmant41, 
+##############################################
+line97=exchanges | of language | to trade | in silence 
+tags97=exchange,machine,machinic,code,codes,coded,encoded,silent
+relatedLines97=101,109,113,114,159,163
+relatedClips97= 
+##############################################
+line98=each | nervous system | abstracted | within
+tags98=machine,machinic,abstract,abstracted,abstracting,system,systems,nervous,sensual,sense,sensed,intermingled
+relatedLines98=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips98=Apartmant16,Apartmant39,Apartmant40,Apartmant41,
+##############################################
+line99=reactive gestures | imprinted | in motion
+tags99=gesture,gestural,flow,flows,thought,thoughts,thoughtbody,imprinting
+relatedLines99=2,9,15,38,40,41,42,43,50,57,75,77,80,83,85,90,91,93,95,132,133,149,151
+relatedClips99=transit transfer 6,transit transfer 10,water10,Apartmant30, 
+##############################################
+line100=escaping | each newly | synthetic home | land
+tags100=words,word,communication,system,systems,set,sets,subset
+relatedLines100=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips100=Apartmant58,Buddhist temple 128,
+##############################################
+line101=angle | of a glance | attending | a return
+tags101=glance,vision,sense,sensing,sight
+relatedLines101=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips101=Apartmant13,
+##############################################
+line102=admission | of authority | positions | of submission
+tags102=position,positions,authority,submission
+relatedLines102=105,106,110,131,159,160
+relatedClips102=Apartmant13,
+##############################################
+line103=position | of uncertainty | culture of difference | inertia 
+tags103=position,positions,difference,state,states,culture
+relatedLines103=107,108,109,110,134,137,148
+relatedClips103=transit transfer 8,transit transfer 9,Apartmant30,
+##############################################
+line104=the walls | reflect on | their material | natures  
+tags104=sound,communication,material,nature,wall,environment,landscape
+relatedLines104=115,117,118,125,138,146,155,159,170,172
+relatedClips104=street4,street14,transit transfer 1,transit transfer 6,Apartmant1,Apartmant42,Apartmant43,
+##############################################
+line105=position of weakness | positions of strength | super-position
+tags105=voice,positions,positions,positionings,voice,words,word,communication,weakness,strength
+relatedLines105=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips105=street1,Apartmant13,Apartmant26, 
+##############################################
+line106=textual | enlightenment | positional | ambivalence
+tags106=language,communication,positions,positions,positionings
+relatedLines106=7,60,82,96,154,159,161,171
+relatedClips106=water2,water3,water4,water10,Apartmant58,Buddhist temple 128,Buddhist temple 5,
+##############################################
+line107=positional flow | over temporal | repose
+tags107=position,positions,positionings,electrochemical,flow,flows,spatial/temporal,time,time's,repose
+relatedLines107=6,28,34,48,50,60,62,77,93,108,109,111,121,122,123,129,132,133,135,143,147,152,155
+relatedClips107=Apartmant58,
+##############################################
+line108=reinforcing | repetitions | of simple | transduction
+tags108=flow,flows,different,repetition,transduction,transductions,repeat,repeated,repeating,similar,different,transduction,transductions
+relatedLines108=6,20,28,34,48,50,60,62,77,93,107,109,121,122,123,135,143,147,152,155
+relatedClips108=street6,transit transfer 1,Apartmant39,
+##############################################
+line109=contextual | flow through | recursive (re)entry
+tags109=flow,flows,one,oneness,itself,one’s,context,contextual,recontextualization,bidirectional,context,contextual,recontextual,recursive,loop
+relatedLines109=6,28,34,48,50,60,62,77,93,107,108,121,122,123,135,143,147,152,155
+relatedClips109=street1,Apartmant26,
+##############################################
+line110=a sensing | of the machinic | in touch
+tags110=one,one’s,sense,senses,know,knowing,understand,understanding,polysensing,machine,machinic
+relatedLines110=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips110=street3,street16,water6,water10,water11,Apartmant13,Apartmant40,Apartmant41,Apartmant49,Apartmant58,Buddhist temple 16,Buddhist temple 17, 
+##############################################
+line111=change of heart | change of mind | surrogate heart | surrogate sign
+tags111=change,changes,sense,senses,know,knowing,understand,understanding,polysensing,heart,mind,thought
+relatedLines111=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips111=Apartmant58,
+##############################################
+line113=each version | of machine | reciprocates | another
+tags113=one,machine,machinic,biomachine,reciprocally,reciprocal
+relatedLines113=55,87,91,95,97,113,122,163
+relatedClips113=Apartmant40,Apartmant41,
+##############################################
+line114=in memoriam | for newer | memories
+tags114=memory,machine,machines,machinic,biomachines,exchange,retrieval
+relatedLines114=42,64,89,135,156,168
+relatedClips114=street1,Apartmant40,Apartmant41,
+##############################################
+line115=taste of | a language in | trouble 
+tags115=tongue,tongues,senses,sense,felling,feelings,feel,sound,voice,polysensing,words,word,communication,evoke
+relatedLines115=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips115=water10,
+##############################################
+line116=innate amplification | of comparative | vibration
+tags116=physical,shape,shapes,sense,senses,sound,machine,machinic,biomachine,polysensing,comparing
+relatedLines116=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips116=
+##############################################
+line117=soundings | that cancel | new versions | of silence
+tags117=sound,point,points,pointing,invisible
+relatedLines117=8,10,12,18,50,75,87,93,104,118,119
+relatedClips117=street1,street3,Apartmant40,Apartmant41,Apartmant58,
+##############################################
+line118=each decay | a precise | distance from | the particular 
+tags118=word,language,communication,nature,space,environment,landscape,reception,disappearance
+relatedLines118=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips118=water10,Apartmant58,
+##############################################
+line120=algorithmics | enfolded | in syllabic | structure
+tags120=fold,enfold,unfolding,enfolded,intrafolding,text,language,communication,parsed,computer,computer's
+relatedLines120=6,8,10,12,13,15,21,27,32,38,47,55,57,60,61,63,69,72,76,78,79,100,105,115,118,119,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips120=Apartmant22,Apartmant58,
+##############################################
+line121=everyday events | arising | in experience
+tags121=pattern,patterns,flow,flows,experience,machinic,biomachine,machine,observer,observer
+relatedLines121=6,28,34,48,50,60,62,77,93,107,108,109,122,123,135,143,147,152,155
+relatedClips121=light1,light2,street1,street3,street4,water6,water7,water10,water11,Apartmant14,Apartmant23,Apartmant24,Apartmant26,Apartmant28,Apartmant30,Apartmant33,Apartmant39,Apartmant46,Apartmant48,Apartmant49,Apartmant65,Apartmant67,Apartmant80,Apartmant81,Apartmant83,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Apartmant95,Apartmant101,Apartmant102,Apartmant103,Apartmant104,Buddhist temple 93,Buddhist temple 123,Buddhist temple 124,Buddhist temple 125,Buddhist temple 127,Buddhist temple 128,Buddhist temple 136,Buddhist temple 138,Buddhist temple 28,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,
+##############################################
+line122=imparted | culture | in reciprocal | motion
+tags122=language,communication,flow,flows,reciprocal,reciprocally,touch,touching,culture,imparting
+relatedLines122=6,28,34,48,50,60,62,77,93,107,108,109,121,123,135,143,147,152,155
+relatedClips122=Apartmant16,Apartmant40,Apartmant41,
+##############################################
+line123=signs in | translation | each into | another 
+tags123=code,codes,coded,encode,decode,translate,
+relatedLines123=6,28,34,48,50,60,62,77,93,107,108,109,121,122,135,143,147,152,155
+relatedClips123=Apartmant26,Apartmant39,Apartmant40,Apartmant41,Apartmant58,
+##############################################
+line124=multi-valent | experience | enabling | execution
+tags124=code,codes,coded,encode,decode,transduce,transduction,transductions
+relatedLines124=11,13,28,66,75,80,91,95,96,110,123,126,137,155,164
+relatedClips124=transit transfer 1,transit transfer 2,Apartmant13,Apartmant18,Apartmant19,Apartmant20,Apartmant22,Apartmant24,Apartmant26,Apartmant30,Apartmant39,Apartmant40,Apartmant41,Apartmant49,Buddhist temple 138,Buddhist temple 167,
+##############################################
+line126=new code | colonizing | a nervous | system
+tags126=code,codes,coded,encode,decode,nervous,system,systems,energy,dispersions
+relatedLines126=20,34,38,83,108,127,160,161,165,168
+relatedClips126=transit transfer 1,transit transfer 2,transit transfer 3,transit transfer 4,transit transfer 5,Apartmant13,Apartmant16,Apartmant26,Apartmant39,Apartmant58,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,
+##############################################
+line127=interwoven | states switching | on and off | off and on
+tags127=transfer,energy,state,states,ons,offs
+relatedLines127=20,34,38,83,108,126,160,161,165,168
+relatedClips127=Construction 2,light1,light2,street6,water6,Apartmant16,Apartmant39,Apartmant40,Apartmant41,Apartmant49,Apartmant58,Buddhist temple 148,Buddhist temple 149,Buddhist temple 151,Buddhist temple 151,Buddhist temple 152,Buddhist temple 154,
+##############################################
+line128=vocabulary | arrives | in conscious | mirroring
+tags128=word,language,communication,self,consciousness,mirroring
+relatedLines128=4,15,23,59,67,68,70,86,87,88,101,109,133,140
+relatedClips128=Apartmant24,Apartmant28,
+##############################################
+line129=a new | techno-species | assimilates | awareness
+tags129=sense,senses,sensed,know,knowledge,understand,understanding,context,contextual,recontextual,recontextualization,watch,watching,polysensing
+relatedLines129=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips129=street14,transit transfer 1,transit transfer 2,transit transfer 3,transit transfer 4,transit transfer 5,Apartmant13,Apartmant39,Apartmant40,Apartmant41,Apartmant56,Apartmant58,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,
+##############################################
+line130=a subset | of special | cases for | the specificity | of machines
+tags130=code,codes,coded,encode,decode,word,language,communication,operation,machine,machinic,biomachinic,context,contextual,contexts,recontextualization
+relatedLines130=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips130=Apartmant16,Apartmant40,Apartmant41,Apartmant49,
+##############################################
+line131=bonding machine | to bio | machine 
+tags131=machine,machinic,biomachine,signal,bonding,messaging
+relatedLines131=3,23,26,28,37,41,52,55,74,85,91,95,113,114,136
+relatedClips131=street1,Apartmant26,Apartmant40,Apartmant41,
+##############################################
+line132=an artifactual | physics | of transmission
+tags132=thoughtbody,translated,translation,thought,physics,knowledgebody,artifactual,physics,transmission
+relatedLines132=23,24,41,43,48,49,57,60,63,67,69,71,73,79,86,88,107,111,129,133
+relatedClips132=Construction 4,water6,Apartmant39,Apartmant40,Apartmant41,Apartmant56,Buddhist temple 154,
+##############################################
+line133=submerged in | an awareness | of itself
+tags133=machine,machinic,knowledgebody,thoughbody,neosentient,itself,one,co-mingling,mingling
+relatedLines133=4,15,23,24,41,43,48,49,57,59,60,63,67,68,69,71,73,79,86,88,107,109,111,129,132,133,140,
+relatedClips133=Apartmant56,
+##############################################
+line134=scale | portending | new machine | potential
+tags134=code,codes,coded,encode,decode,neosentient,machine,machinc,translation
+relatedLines134=2,3,21,23,36,59,74,133,134
+relatedClips134=light1,light2,Apartmant16,Apartmant39,Apartmant40,Apartmant41,Apartmant49,Apartmant56,Apartmant58,
+##############################################
+line135=network | of chemical | sense | apparatus
+tags135=parsed,network,machine,machinic,sense,sensed,pattern,patterns,flow,flows,polysensing
+relatedLines135=32,36,39,43,48,66,89,90,93,98,101,110,111,114,115,119,129,135,136,142,144,149,154,156,159,160,162,167,168,170
+relatedClips135=Apartmant13,Apartmant40,Apartmant41,Apartmant49,
+##############################################
+line136=multiple | awarenesses | of layered | language 
+tags136=machine,machinic,understand,understanding,context,contexts,contextual,polysensing,sense
+relatedLines136=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips136=elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,street4,street6,transit transfer 1,transit transfer 2,transit transfer 3,transit transfer 4,transit transfer 5,water2,water6,Apartmant14,Apartmant18,Apartmant19,Apartmant20,Apartmant22,Apartmant24,Apartmant26,Apartmant28,Apartmant30,Apartmant32,Apartmant33,Apartmant34,Apartmant39,Apartmant40,Apartmant41,Apartmant42,Apartmant43,Apartmant44,Apartmant45,Apartmant46,Apartmant48,Apartmant50,Apartmant51,Apartmant55,Apartmant56,Apartmant58,Apartmant59,Apartmant61,Apartmant62,Apartmant63,Apartmant65,Apartmant67,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Apartmant83,Apartmant84,Apartmant95,Apartmant101,Apartmant102,Apartmant103,Apartmant104,Apartmant108,Apartmant110,Buddhist temple 93,Buddhist temple 94,Buddhist temple 95,Buddhist temple 96,Buddhist temple 98,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 105,Buddhist temple 106,Buddhist temple 108,Buddhist temple 109,Buddhist temple 111,Buddhist temple 111,Buddhist temple 113,Buddhist temple 119,Buddhist temple 120,Buddhist temple 121,Buddhist temple 122,Buddhist temple 123,Buddhist temple 124,Buddhist temple 125,Buddhist temple 127,Buddhist temple 128,Buddhist temple 131,Buddhist temple 136,Buddhist temple 138,Buddhist temple 140,Buddhist temple 153,Buddhist temple 154,Buddhist temple 155,Buddhist temple 156,Buddhist temple 165,Buddhist temple 167,Buddhist temple 5,Buddhist temple 9,Buddhist temple 11,Buddhist temple 20,Buddhist temple 21,Buddhist temple 22,Buddhist temple 23,Buddhist temple 25,Buddhist temple 27,Buddhist temple 28,Buddhist temple 42,Buddhist temple 53,Buddhist temple 55,Buddhist temple 59,Buddhist temple 70,Buddhist temple 73,Buddhist temple 74,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,Buddhist temple 86,Buddhist temple 87,Buddhist temple 89,
+##############################################
+line137=transmission | alters | the nature | of acquisition
+tags137=transmission,transmissions,word,language,communication,nature,aquisition
+relatedLines137=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips137=Apartmant26,Apartmant40,Apartmant41,Apartmant58,
+##############################################
+line138=breathing | on a mirror | writing in | breath
+tags138=word,language,communication,mirroring,mirror,breath,breathing
+relatedLines138=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips138=Apartmant39,
+##############################################
+line139=marking | a word in breath | a word in stone | inscription 
+tags139=word,language,communication,inscribe,inscribing,breath,breathing
+relatedLines139=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips139=street1,street3,water3,water4,Apartmant26,Apartmant83,
+##############################################
+line140=bursts of air | releasing | a pitched | whisper
+tags140=word,language,communication,releasing,whisper
+relatedLines140=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips140=street1,street3,Apartmant26,
+##############################################
+line142=touching | palms | in signal
+tags142=sense,signal,signals,word,language,communication,polysensing
+relatedLines142=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,144,149,154,156,159,160,162,167,170
+##############################################
+line28=resonant language | com<->space | rendered
+tags28=sense,word,language,communication,polysensing
+relatedLines28=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,144,149,154,156,159,160,162,167,170
+relatedClips28=
+##############################################
+line143=time-based | markings | open | for | closure
+tags143=word,language,communication,time,flow,flows,opening,species,techno-species
+relatedLines143=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips143=Apartmant40,Apartmant41,
+##############################################
+line144=muscle strain | for nuanced | perception 
+tags144=sense,sensed,word,language,communication,polysensing,taste
+relatedLines144=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips144=water6,
+##############################################
+line145=a tempered | language for | engineered | production
+tags145=word,language,communication,meaning,production
+relatedLines145=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips145=
+##############################################
+line147=sound pattern | shape pattern | patterns | enfolding
+tags147=fold,enfold,unfolding,enfolded
+relatedLines147=6,28,32,38,34,48,50,55,60,62,77,78,93,107,108,109,119,120,121,122,123,135,143,147,152,155
+relatedClips147=Drive1,elevator1,elevator2,elevator3,elevator4,elevator5,elevator6,elevator7,elevator8,elevator9,elevator10,elevator11,elevator12,elevator13,elevator14,elevator15,elevator16,elevator17,elevator18,elevator19,street1,street16,transit transfer 1,transit transfer 2,water2,water6,water10,Apartmant1,Apartmant2,Apartmant3,Apartmant4,Apartmant6,Apartmant7,Apartmant13,Apartmant14,Apartmant22,Apartmant23,Apartmant24,Apartmant26,Apartmant28,Apartmant30,Apartmant32,Apartmant33,Apartmant34,Apartmant35,Apartmant37,Apartmant38,Apartmant40,Apartmant41,Apartmant46,Apartmant48,Apartmant49,Apartmant50,Apartmant51,Apartmant55,Apartmant58,Apartmant59,Apartmant61,Apartmant62,Apartmant63,Apartmant65,Apartmant67,Apartmant66,Apartmant68,Apartmant69,Apartmant70,Apartmant71,Apartmant72,Apartmant73,Apartmant74,Apartmant75,Apartmant76,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,Apartmant83,Apartmant84,Apartmant95,Apartmant101,Apartmant102,Apartmant103,Apartmant104,Apartmant108,Apartmant110,Buddhist temple 93,Buddhist temple 94,Buddhist temple 95,Buddhist temple 96,Buddhist temple 98,Buddhist temple 100-1,Buddhist temple 100-2,Buddhist temple 105,Buddhist temple 106,Buddhist temple 108,Buddhist temple 109,Buddhist temple 111,Buddhist temple 111,Buddhist temple 113,Buddhist temple 119,Buddhist temple 120,Buddhist temple 121,Buddhist temple 122,Buddhist temple 123,Buddhist temple 124,Buddhist temple 125,Buddhist temple 127,Buddhist temple 128,Buddhist temple 131,Buddhist temple 136,Buddhist temple 141,Buddhist temple 148,Buddhist temple 149,Buddhist temple 151,Buddhist temple 152,Buddhist temple 152,Buddhist temple 153,Buddhist temple 154,Buddhist temple 155,Buddhist temple 156,Buddhist temple 165,Buddhist temple 167,Buddhist temple 5,Buddhist temple 9,Buddhist temple 11,Buddhist temple 16,Buddhist temple 17,Buddhist temple 20,Buddhist temple 21,Buddhist temple 22,Buddhist temple 23,Buddhist temple 25,Buddhist temple 27,Buddhist temple 28,Buddhist temple 42,Buddhist temple 53,Buddhist temple 55,Buddhist temple 59,Buddhist temple 70,Buddhist temple 73,Buddhist temple 74,Buddhist temple 78,Buddhist temple 80,Buddhist temple 82,Buddhist temple 84,Buddhist temple 86,Buddhist temple 87,Buddhist temple 89,
+##############################################
+line148=details flow | beneath the surface | of inference
+tags148=point,points,pointing,flow,flows,instances,beneath,surface,inference
+relatedLines148=28,34,48,50,60,62,65,93,99,107,108,109,121,122,123,135,143,147
+relatedClips148=water10,water11,Apartmant40,Apartmant41,Apartmant49,Apartmant51,Apartmant56,Apartmant58,
+##############################################
+line149=sense patterns | producing | contextual recognition
+tags149=instances,sense,sensed,pattern,patterns,environment,environmental,word,language,communication,relation,relations,repetition,polysensing
+relatedLines149=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips149=Drive2,Apartmant14,Apartmant18,Apartmant19,Apartmant20,Apartmant28,Apartmant30,Apartmant48,
+##############################################
+line150=networks of | projection | continued fragmentation
+tags150=context,contexts,recontextualization,network
+relatedLines150=152,155,156,164
+relatedClips150=Apartmant13,Apartmant40,Apartmant41,Apartmant49,
+##############################################
+line151=language | time | repetition | relation  
+tags151=communication,language,repetition,body,bodies,relation,relations,body,bodies,thoughtbody
+relatedLines151=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,157,158,162,163,164,169,171,172,173,174,175
+relatedClips151=
+##############################################
+line152=intimates | disperse and | (re)fuse together
+tags152=pattern,patterns,flow,flows,place,environment,landscape,context,contextual,recontextual,embodied
+relatedLines152=6,28,34,48,50,60,62,77,93,107,108,109,121,122,123,135,143,147,155
+relatedClips152=Apartmant22,Apartmant40,Apartmant41,Buddhist temple 140,
+##############################################
+line153=patterns | fall together | in precise vibration
+tags153=pattern,patterns,fall,falling,fallen,vibration,vibrations
+relatedLines153=61,81,138,139,170
+relatedClips153=Apartmant13,Apartmant40,Apartmant41,Apartmant80,Apartmant81,Apartmant85,Apartmant86,Apartmant87,Apartmant88,Apartmant89,Apartmant90,Apartmant91,Apartmant92,Apartmant93,
+##############################################
+line154=hand | in ink | keys in hand | manual operation 
+tags154=moving,movement,hand,sense,light,lights,internal,system,systems
+relatedLines154=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips154=Apartmant58,
+##############################################
+line156=(a)symmetric | memories | fade into | silence
+tags156=pattern,patterns,patterning,memory,polysensing
+relatedLines156=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips156=Apartmant12,Apartmant13,Apartmant22,Apartmant24,Apartmant26,Apartmant27,
+##############################################
+line157=fields | variables | containers | vehicles | trains | of thought
+tags157=code,codes,coded,encode,decode,fields,communication,language,containers,thought,vehicles,variables
+relatedLines157=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,158,162,163,164,169,171,172,173,174,175
+relatedClips157=street6,
+##############################################
+line158=dark | containers | for vibrant | exchange
+tags158=word,language,communication,space,landscape,environment,communication,communications,define,definition
+relatedLines158=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,162,163,164,169,171,172,173,174,175
+relatedClips158=
+##############################################
+line159=touched | with light | and even | muscle
+tags159=structural,coupling,touching,light,lights,sound,sense,face,surface,mouth,polysensing,smell,muscles,mouth,face
+relatedLines159=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips159=Apartmant13,
+##############################################
+line160=watching | waving | turning | oscillating | silicon
+tags160=sense,watch,watching,state,states,force,polysensing,watching,physics
+relatedLines160=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips160=Apartmant39,
+##############################################
+line162=gestures | coded  in | reciprocal figuration
+tags162=code,coded,encode,decode,communication,language,heated,hand,sense
+relatedLines162=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,167,170
+relatedClips162=
+##############################################
+line163=encrypted | reciprocal | for words | in doubt
+tags163=fold,enfold,unfolding,enfolded,intrafolding,code,coded,encode,decode,reciprocal,reciprocally,doubt
+relatedLines163=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,164,169,171,172,173,174,175
+relatedClips163=Apartmant40,Apartmant41,Apartmant58,
+##############################################
+line165=reflected | mechanism | of chemical | allegory 
+tags165=code,coded,encode,decode,field,drive,drives,chemical,chemicals,energy,synapse,drive,drives,force,forces,driving
+relatedLines165=20,34,38,83,108,126,127,160,161,165,168
+relatedClips165=Drive2,Drive3,transit transfer 1,water10,Apartmant39,Apartmant40,Apartmant41,
+##############################################
+line166=chemical | melodies | spawn digital | emotion
+tags166=information,chemical,chemicals,spawn,emotion,melody
+relatedLines166=21,29,31,46
+relatedClips166=Apartmant39,
+##############################################
+line167=resonant | chords in | organic | vibration  
+tags167=vibration,vibrations,movement,vibration,resonant
+relatedLines167=32,36,39,43,48,66,90,93,98,101,110,111,115,119,129,135,136,142,144,149,154,156,159,160,162,167,170
+relatedClips167=street1,Apartmant26,
+##############################################
+line168=each analog | of memory | a lost | allusion 
+tags168=memory,analogy,analogue,beginning,
+relatedLines168=20,34,38,42,64,83,89,108,126,114,127,135,156,160,161,165,168
+relatedClips168=street1,Apartmant39,
+##############################################
+line169=sparks of | thought in | senses of | the other
+tags169=repeat,repeated,repeating,communication,language,tongue,tounguing,motion,motions,motioning,mouth,sensibilities
+relatedLines169=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,171,172,173,174,175
+relatedClips169=
+##############################################
+line170=membranes | of vibration | release in | thought 
+tags170=,vibration,thought,sensation,sense
+relatedLines170=32,36,39,43,48,61,66,81,90,93,98,101,110,111,115,119,129,135,136,138,139,142,144,149,153,154,156,159,160,162,167,170
+relatedClips170=street1,Apartmant39,
+##############################################
+line171=etched words | cast in | light and | motion
+tags171=communication,language,motion,motioning,etched
+relatedLines171=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,172,173,174,175
+relatedClips171=Apartmant39,
+##############################################
+line172=words of sorrow | words of silence | words of doubt
+tags172=communication,language,sorrow,doubt
+relatedLines172=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,173,174,175
+relatedClips172=transit transfer 8,transit transfer 9,Apartmant30,Apartmant58,
+##############################################
+line173=feeling | transformed | in(to) code | (e)motion 
+tags173=code,coded,encode,decode,communication,language,motion,motioning,
+relatedLines173=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,174,175
+relatedClips173=
+##############################################
+line174=dark mouth | of cause | or effect
+tags174=communication,language,mouth
+relatedLines174=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips174=Apartmant13,
+##############################################   
+line176=dark | surrogate | for linguistic | machines
+tags176=communication,language,mouth
+relatedLines176=6,8,10,12,13,15,21,27,47,57,60,61,63,69,72,76,79,100,105,115,118,120,125,130,137,138,139,140,142,143,145,149,151,157,158,162,163,164,169,171,172,173,174,175
+relatedClips176=Apartmant13,
+##############################################     

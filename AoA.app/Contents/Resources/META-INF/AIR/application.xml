@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <application xmlns="http://ns.adobe.com/air/application/1.5.3">
   <id>AoA-1</id>
   <filename>AoA</filename>
   <name>the Architecture of Association</name>
   <version>v080.1:localhost</version>
+    <!--version>v080.1:lab-lamp.scm.cityu.edu.hk</version-->
   <copyright>Howe/Seaman 2009</copyright>
   <initialWindow>
-    <content>[This value will be overwritten by Flex Builder in the output app.xml]</content>
-    <!-- systemChrome>standard</systemChrome-->
+    <content>ArchOfAssoc.swf</content>
     <systemChrome>none</systemChrome>
     <visible>true</visible>
     <resizable>false</resizable>
     <width>1920</width>
-    <height>1080</height><!-- add 20 if using system chrome -->
-    <x>50</x><y>30</y>         
+    <height>1080</height>
+    <x>30</x>
+        <y>30</y>
   </initialWindow>
 </application>

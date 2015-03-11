@@ -44,7 +44,6 @@ package aoa
     override protected function init(a:Application, dur:int) : void {
       super.init(a, dur);
       if (dbg1()) log("ClipAoa#"+idx+".init()"); 
-      //log("adding self child of app");                                
       a.addChildAt(this, 0);
       doFadeIn(dur); 
       if (dbg1()) log("ClipAoa#"+idx+".init().done");  
@@ -63,11 +62,9 @@ package aoa
           addChild(video);                                          
       }
       if (AoA.showClipNames && !label) {
+		  
         label = new Label();
-        //label.blendMode = BlendMode.NORMAL;
         shadow = new DropShadowFilter();
-        /* setStyle("font", "myriad");
-        setStyle("fontSize", 120); */
         setStyle("font", "myriad"); 
         setStyle("fontSize", 10); 
         shadow.angle = 5; shadow.alpha = 1;
@@ -91,16 +88,6 @@ package aoa
         destroy();
       }                                                                                                   
     }
-    
-    /* override protected function commitProperties() : void  {
-      if (dbg1()) log("ClipAoa#"+idx+".commitProperties()")
-      super.commitProperties();  
-      if (!hasVideoProperties && video.mx_internal::videoPlayer) {                             
-            video.mx_internal::videoPlayer.smoothing = true;
-            video.mx_internal::videoPlayer.deblocking = 1;
-            hasVideoProperties = true;
-          }               
-      } */
               
     override protected function measure() : void  { 
       if (dbg1()) log("ClipAoa#"+idx+".measure()")
@@ -159,19 +146,6 @@ package aoa
           var idx:int = src.lastIndexOf("/");
           src = src.substr(idx+1);
           if (label) label.text = src;           
-/*           if (ROTATE_CLIPS) {
-            video.transform.matrix = new Matrix(); 
-            video.doRotate();          
-            /* for (var k:int = 0; k < Assets.rotates.length; k++) {
-              //AoA.log(Assets.rotates[k]+" =? "+src);
-              if (Assets.rotates[k] == src){              
-                 video.doRotate();
-                 AoA.log("ROTATE: "+label.text);
-                 break;
-              }
-            } 
-          } */
-            
           return true;
         }          
         die("Missing video clip: "+src);
@@ -191,7 +165,6 @@ package aoa
       
       public function randomPos(marginX:int=0) : Boolean
       { 
-        //log("randomPos()");
         var appWidth:Number = app.width - CLIP_BORDER_SZ;
         var maxOuterLoops:int = 10, maxInnerLoops:int = 5;
         OUTER:  for (var k:int = 0; k < maxOuterLoops; k++)  
